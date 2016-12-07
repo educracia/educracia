@@ -1,2 +1,2 @@
 # educracia.github.io
-Educracia - Educação Democrática
+Educracia - Tudo passa pela Educação
